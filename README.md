@@ -1,2 +1,2 @@
 # priorityQueue
-simulation of a priority queue using an array
+simulation of a priority queue using arrays
